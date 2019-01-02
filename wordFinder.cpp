@@ -2,8 +2,6 @@
 #include "wordFinder.h"
 #include <string>
 
-using namespace std;
-
 wordFinder::wordFinder(std::string subSeq)
 {
     sortDictionary();
